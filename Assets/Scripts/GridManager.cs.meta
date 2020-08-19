@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7da3c60b3f58e6543aafbe8e7f7ccbbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bread: {fileID: 3176570064435878085, guid: ed607fef949b4764db03f8b13299610a, type: 3}
+  - cheese: {fileID: 5055473188702870359, guid: 6c271170e8e91454488c0230df55b72a, type: 3}
+  - lettuce: {fileID: 8977390739147652303, guid: 08950dc3545abd1468de846dc80074fc, type: 3}
+  - tomato: {fileID: 7157159986197065446, guid: 4b84cf01d5f4c574f96c8bd309e8c5ac, type: 3}
+  - empty: {fileID: 5496808530239181187, guid: e15b463a5141f2b48bececc570bba6fe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
